@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\MsgBox\bin\Debug\MsgBox.exe.config
+C:\Users\hp\source\repos\MsgBox\bin\Debug\MsgBox.exe
+C:\Users\hp\source\repos\MsgBox\bin\Debug\MsgBox.pdb
+C:\Users\hp\source\repos\MsgBox\obj\Debug\MsgBox.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MsgBox\obj\Debug\MsgBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\MsgBox\obj\Debug\MsgBox.Form1.resources
+C:\Users\hp\source\repos\MsgBox\obj\Debug\MsgBox.Properties.Resources.resources
+C:\Users\hp\source\repos\MsgBox\obj\Debug\MsgBox.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\MsgBox\obj\Debug\MsgBox.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MsgBox\obj\Debug\MsgBox.exe
+C:\Users\hp\source\repos\MsgBox\obj\Debug\MsgBox.pdb
