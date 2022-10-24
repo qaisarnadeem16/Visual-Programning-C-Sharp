@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\TreeViewOfGCUF\bin\Debug\TreeViewOfGCUF.exe.config
+C:\Users\hp\source\repos\TreeViewOfGCUF\bin\Debug\TreeViewOfGCUF.exe
+C:\Users\hp\source\repos\TreeViewOfGCUF\bin\Debug\TreeViewOfGCUF.pdb
+C:\Users\hp\source\repos\TreeViewOfGCUF\obj\Debug\TreeViewOfGCUF.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TreeViewOfGCUF\obj\Debug\TreeViewOfGCUF.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\TreeViewOfGCUF\obj\Debug\TreeViewOfGCUF.Form1.resources
+C:\Users\hp\source\repos\TreeViewOfGCUF\obj\Debug\TreeViewOfGCUF.Properties.Resources.resources
+C:\Users\hp\source\repos\TreeViewOfGCUF\obj\Debug\TreeViewOfGCUF.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TreeViewOfGCUF\obj\Debug\TreeViewOfGCUF.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TreeViewOfGCUF\obj\Debug\TreeViewOfGCUF.exe
+C:\Users\hp\source\repos\TreeViewOfGCUF\obj\Debug\TreeViewOfGCUF.pdb
