@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -34,6 +35,44 @@ namespace WindowsFormsApp3
             treeView1.Nodes[0].Nodes[0].Nodes.Add("Software Engineering");
             treeView1.Nodes[0].Nodes[0].Nodes.Add("Information Technology");
 
+            ListBox mylist = new ListBox();
+            mylist.Location = new Point(12, 12);
+            mylist.Size = new Size(245, 200);
+
+            ArrayList lst = new ArrayList();
+            lst.Add("firstitem");
+            lst.Add("seconditem");
+            lst.Add("thirditem");
+            //mylist.Items.Add("item1");
+            //mylist.Items.Add("item2");
+            mylist.DataSource = lst;
+            this.Controls.Add(mylist);
+
+        }
+
+        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(treeView1.SelectedNode.FullPath.ToString());
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //listBox2.Items.Add(listBox1.SelectedItem.ToString());
+            StringBuilder sb = new StringBuilder();
+            foreach(object item in listBox1.SelectedItems)
+            {
+                listBox2.Items.Add(item.ToString());
+                sb.Append(item.ToString());
+                sb.Append(" ");
+            }
+            MessageBox.Show(sb.ToString());
+            
+            
         }
     }
 }

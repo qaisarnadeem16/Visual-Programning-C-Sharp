@@ -19,7 +19,9 @@ namespace TreeViewOfGCUF
 
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
         {
-         
+            TreeNode CurrentNode = e.Node;
+            string fullpath = CurrentNode.FullPath;
+            MessageBox.Show(fullpath);
         }
 
         private void btn_Click(object sender, EventArgs e)
@@ -48,6 +50,16 @@ namespace TreeViewOfGCUF
             treeView1.Nodes[0].Nodes[1].Nodes.Add("BioChemistry");
             treeView1.Nodes[0].Nodes[1].Nodes.Add("Bioinformatics and Biotechnology");
             treeView1.Nodes[0].Nodes[1].Nodes.Add("Food Science");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void btn_click(object sender, EventArgs e)
+        {
+          
         }
     }
 }
