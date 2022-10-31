@@ -63,12 +63,13 @@ namespace WindowsFormsApp3
         private void button2_Click(object sender, EventArgs e)
         {
             //listBox2.Items.Add(listBox1.SelectedItem.ToString());
+
             StringBuilder sb = new StringBuilder();
             foreach(object item in listBox1.SelectedItems)
             {
                 listBox2.Items.Add(item.ToString());
-                sb.Append(item.ToString());
-                sb.Append(" ");
+               // sb.Append(item.ToString());
+               // sb.Append(" ");          
             }
             MessageBox.Show(sb.ToString());
             
