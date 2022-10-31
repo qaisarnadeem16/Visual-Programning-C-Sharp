@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{78763163-9B39-44DA-A1DB-F83C8AD1346A}</ProjectGuid>
+    <ProjectGuid>{06D08F36-B2B3-4AC0-9B72-C2A08EF548EC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Picture_Viewer</RootNamespace>
-    <AssemblyName>Picture Viewer</AssemblyName>
+    <RootNamespace>imageViewer</RootNamespace>
+    <AssemblyName>imageViewer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

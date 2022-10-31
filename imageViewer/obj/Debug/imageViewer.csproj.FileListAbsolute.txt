@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\imageViewer\bin\Debug\imageViewer.exe.config
+C:\Users\hp\source\repos\imageViewer\bin\Debug\imageViewer.exe
+C:\Users\hp\source\repos\imageViewer\bin\Debug\imageViewer.pdb
+C:\Users\hp\source\repos\imageViewer\obj\Debug\imageViewer.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\imageViewer\obj\Debug\imageViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\imageViewer\obj\Debug\imageViewer.Form1.resources
+C:\Users\hp\source\repos\imageViewer\obj\Debug\imageViewer.Properties.Resources.resources
+C:\Users\hp\source\repos\imageViewer\obj\Debug\imageViewer.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\imageViewer\obj\Debug\imageViewer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\imageViewer\obj\Debug\imageViewer.exe
+C:\Users\hp\source\repos\imageViewer\obj\Debug\imageViewer.pdb

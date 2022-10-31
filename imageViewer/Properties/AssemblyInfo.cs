@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Picture Viewer")]
+[assembly: AssemblyTitle("imageViewer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Picture Viewer")]
+[assembly: AssemblyProduct("imageViewer")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("78763163-9b39-44da-a1db-f83c8ad1346a")]
+[assembly: Guid("06d08f36-b2b3-4ac0-9b72-c2a08ef548ec")]
 
 // Version information for an assembly consists of the following four values:
 //
