@@ -83,5 +83,28 @@ namespace imageViewer
         {
 
         }
+
+        private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == System.Windows.Forms.MouseButtons.Right)
+            {
+                Bitmap bmp = new Bitmap(pictureBox1.Image);
+                Bitmap bmp_new = new Bitmap(Convert.ToInt32(pictureBox1.Image.Width / 2),Convert.ToInt32(pictureBox1.Image.Height / 2));
+                Graphics gr = Graphics.FromImage(bmp_new);
+                gr.DrawImage(bmp, 0, 0, bmp_new.Width, bmp_new.Height);
+                pictureBox1.Image = bmp_new;
+
+            }
+
+            if (e.Button == System.Windows.Forms.MouseButtons.Left)
+            {
+                Bitmap bmp = new Bitmap(pictureBox1.Image);
+                Bitmap bmp_new = new Bitmap(Convert.ToInt32(pictureBox1.Image.Width * 2), Convert.ToInt32(pictureBox1.Image.Height * 2));
+                Graphics gr = Graphics.FromImage(bmp_new);
+                gr.DrawImage(bmp, 0, 0, bmp_new.Width, bmp_new.Height);
+                pictureBox1.Image = bmp_new;
+
+            }
+        }
     }
 }
