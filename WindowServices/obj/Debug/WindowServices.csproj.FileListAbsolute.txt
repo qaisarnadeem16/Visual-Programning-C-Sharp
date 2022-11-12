@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\WindowServices\obj\Debug\WindowServices.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WindowServices\obj\Debug\WindowServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\WindowServices\obj\Debug\WindowServices.ProjectInstaller.resources
+C:\Users\hp\source\repos\WindowServices\obj\Debug\WindowServices.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WindowServices\obj\Debug\WindowServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WindowServices\bin\Debug\WindowServices.exe.config
+C:\Users\hp\source\repos\WindowServices\bin\Debug\WindowServices.exe
+C:\Users\hp\source\repos\WindowServices\bin\Debug\WindowServices.pdb
+C:\Users\hp\source\repos\WindowServices\obj\Debug\WindowServices.exe
+C:\Users\hp\source\repos\WindowServices\obj\Debug\WindowServices.pdb
