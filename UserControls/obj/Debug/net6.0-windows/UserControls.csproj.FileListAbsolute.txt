@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UserControls\bin\Debug\net6.0-windows\UserControls.deps.json
+C:\Users\hp\source\repos\UserControls\bin\Debug\net6.0-windows\UserControls.dll
+C:\Users\hp\source\repos\UserControls\bin\Debug\net6.0-windows\UserControls.pdb
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\UserControls.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\UserControls.UserControl1.resources
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\UserControls.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\UserControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\UserControls.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\UserControls.AssemblyInfo.cs
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\UserControls.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\UserControls.dll
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\refint\UserControls.dll
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\UserControls.pdb
+C:\Users\hp\source\repos\UserControls\obj\Debug\net6.0-windows\ref\UserControls.dll
