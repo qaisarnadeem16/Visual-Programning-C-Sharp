@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\ControlTest\bin\Debug\ControlTest.exe.config
+C:\Users\hp\source\repos\ControlTest\bin\Debug\ControlTest.exe
+C:\Users\hp\source\repos\ControlTest\bin\Debug\ControlTest.pdb
+C:\Users\hp\source\repos\ControlTest\obj\Debug\ControlTest.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ControlTest\obj\Debug\ControlTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\ControlTest\obj\Debug\ControlTest.Properties.Resources.resources
+C:\Users\hp\source\repos\ControlTest\obj\Debug\ControlTest.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ControlTest\obj\Debug\ControlTest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ControlTest\obj\Debug\ControlTest.exe
+C:\Users\hp\source\repos\ControlTest\obj\Debug\ControlTest.pdb
